@@ -1,5 +1,12 @@
 # 🕵️ research_node[threats]
 
-Threat intelligence notes and open-source research findings. 
+Threat intelligence notes, open-source research findings, and adversary mapping. 
 
-Mapping the adversary landscape to strengthen defenses and sharpen awareness.
+Studying tactics, techniques, and patterns to strengthen defenses and anticipate attacks.
+
+---
+
+## 📂 Sections
+
+- **osint_notes**: Public threat intelligence observations and findings
+- **threat_reports**: Structured reports on specific threat actors, campaigns, or techniques
