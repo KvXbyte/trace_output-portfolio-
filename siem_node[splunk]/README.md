@@ -1,5 +1,12 @@
-# 📊 siem_node[splunk]
+📊 **siem_node[splunk]**
 
-Splunk dashboards, queries, and configuration snippets. 
+Notes, labs, and configurations from Splunk studies.
 
-Transforming raw data into actionable insights and strengthening detection capabilities.
+Building detection power — one search at a time.
+
+## Subfolders
+
+- `initiation_core-feed`: Introductory Splunk course notes and explorations.
+- `labs`: Hands-on exercises, screenshots, and configurations.
+- `dashboards`: Saved dashboard designs and experiments.
+- `resources`: Cheat sheets and reference materials.
