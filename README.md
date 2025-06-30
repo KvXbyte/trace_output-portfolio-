@@ -12,29 +12,21 @@ Here you’ll find projects, labs, research, and study materials from my journey
 
 ### 📂 Repository Sections
 
-#### 📁 **kvxstack[projects]**
-Security tools and custom experiments.
+#### 📁 **kvxstack[projects]** - Security tools and custom experiments.
 
-#### 📁 **lab_node[tryhackme]**
-Sanitized notes and summaries from TryHackMe labs.
+#### 📁 **lab_node[tryhackme]** - Sanitized notes and summaries from TryHackMe labs.
 
-#### 📁 **log_entry[writeups]**
-Analysis writeups, reports, and narrative explorations.
+#### 📁 **log_entry[writeups]** - Analysis writeups, reports, and narrative explorations.
 
-#### 📁 **siem_node[splunk]**
-Splunk searches, dashboards, configuration snippets.
+#### 📁 **siem_node[splunk]** - Splunk searches, dashboards, configuration snippets.
 
-#### 📁 **tactic_map[mitre-attack]**
-Threat mapping, MITRE ATT&CK explorations, adversary emulation notes.
+#### 📁 **tactic_map[mitre-attack]** - Threat mapping, MITRE ATT&CK explorations, adversary emulation notes.
 
-#### 📁 **netflow_dossier[wireshark]**
-Packet capture dissections, protocol analysis exercises.
+#### 📁 **netflow_dossier[wireshark]** - Packet capture dissections, protocol analysis exercises.
 
-#### 📁 **research_node[threats]**
-Threat intelligence notes, open-source research findings.
+#### 📁 **research_node[threats]** - Threat intelligence notes, open-source research findings.
 
-#### 📁 **auth_chain[certifications]**
-Study plans, exam prep notes, certification journey.
+#### 📁 **auth_chain[certifications]** - Study plans, exam prep notes, certification journey.
 
 ---
 
