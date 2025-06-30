@@ -1,40 +1,41 @@
-🛡️ **trace_output[portfolio]**
+# 🛡️ trace_output[portfolio]
 
 Welcome to my cybersecurity portfolio — where defense meets curiosity, and every log tells a story.
 
-**Repository Structure**
+---
 
-📁 **kvxstack[projects]**
+## 📚 Overview
 
-security tools and custom experiments.
+Here you’ll find projects, labs, research, and study materials from my journey through defensive security, threat analysis, and more.
 
-📁 **lab_node[tryhackme]**
+---
 
-sanitized notes and summaries from TryHackMe labs.
+### 📂 Repository Sections
 
-📁 **log_entry[writeups]**
+#### 📁 **kvxstack[projects]**
+Security tools and custom experiments.
 
-analysis writeups, reports, and narrative explorations.
+#### 📁 **lab_node[tryhackme]**
+Sanitized notes and summaries from TryHackMe labs.
 
-📁 **siem_node[splunk]**
+#### 📁 **log_entry[writeups]**
+Analysis writeups, reports, and narrative explorations.
 
+#### 📁 **siem_node[splunk]**
 Splunk searches, dashboards, configuration snippets.
 
-📁 **tactic_map[mitre-attack]**
+#### 📁 **tactic_map[mitre-attack]**
+Threat mapping, MITRE ATT&CK explorations, adversary emulation notes.
 
-threat mapping, MITRE ATT&CK explorations, adversary emulation notes.
+#### 📁 **netflow_dossier[wireshark]**
+Packet capture dissections, protocol analysis exercises.
 
-📁 **netflow_dossier[wireshark]**
+#### 📁 **research_node[threats]**
+Threat intelligence notes, open-source research findings.
 
-packet capture dissections, protocol analysis exercises.
+#### 📁 **auth_chain[certifications]**
+Study plans, exam prep notes, certification journey.
 
-📁 **research_node[threats]**
+---
 
-threat intelligence notes, open-source research findings.
-
-📁 **auth_chain[certifications]**
-
-study plans, exam prep notes, certification journey.
-
-⚡ **Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.**
-
+> ⚡ *Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.*
