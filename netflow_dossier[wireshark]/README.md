@@ -1,5 +1,11 @@
-# 🌐 netflow_dossier[wireshark]
+🌐 **netflow_dossier[wireshark]**
 
-Packet capture dissections and protocol analysis exercises. 
+Packet captures, analysis notes, and study materials from Wireshark explorations.
 
-Peering into the streams to uncover patterns, anomalies, and hidden signals.
+Dissect the flow — understand the noise.
+
+## Subfolders
+
+- `captures`: Saved packet captures and screenshots.
+- `analysis`: Notes and findings from traffic analysis.
+- `resources`: Cheat sheets and quick references.
