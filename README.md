@@ -1,12 +1,16 @@
-🛡️ trace_output[portfolio]
+🛡️ **trace_output[portfolio]**
 
 Welcome to my cybersecurity portfolio — where defense meets curiosity, and every log tells a story.
 
-📂 Repository Structure
+**Repository Structure**
 
-📁 kvxstack[projects]security tools and custom experiments.
+📁 **kvxstack[projects]**
 
-📁 lab_node[tryhackme]sanitized notes and summaries from TryHackMe labs.
+    security tools and custom experiments.
+
+📁 **lab_node[tryhackme]**
+
+    sanitized notes and summaries from TryHackMe labs.
 
 📁 log_entry[writeups]analysis writeups, reports, and narrative explorations.
 
