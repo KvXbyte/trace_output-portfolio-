@@ -21,3 +21,4 @@ Welcome to my cybersecurity portfolio — where defense meets curiosity, and eve
 📁 auth_chain[certifications]study plans, exam prep notes, certification journey.
 
 ⚡ Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.
+
