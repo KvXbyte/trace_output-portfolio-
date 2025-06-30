@@ -6,23 +6,35 @@ Welcome to my cybersecurity portfolio — where defense meets curiosity, and eve
 
 📁 **kvxstack[projects]**
 
-    security tools and custom experiments.
+security tools and custom experiments.
 
 📁 **lab_node[tryhackme]**
 
-    sanitized notes and summaries from TryHackMe labs.
+sanitized notes and summaries from TryHackMe labs.
 
-📁 log_entry[writeups]analysis writeups, reports, and narrative explorations.
+📁 **log_entry[writeups]**
 
-📁 siem_node[splunk]Splunk searches, dashboards, configuration snippets.
+analysis writeups, reports, and narrative explorations.
 
-📁 tactic_map[mitre-attack]threat mapping, MITRE ATT&CK explorations, adversary emulation notes.
+📁 **siem_node[splunk]**
 
-📁 netflow_dossier[wireshark]packet capture dissections, protocol analysis exercises.
+Splunk searches, dashboards, configuration snippets.
 
-📁 research_node[threats]threat intelligence notes, open-source research findings.
+📁 **tactic_map[mitre-attack]**
 
-📁 auth_chain[certifications]study plans, exam prep notes, certification journey.
+threat mapping, MITRE ATT&CK explorations, adversary emulation notes.
 
-⚡ Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.
+📁 **netflow_dossier[wireshark]**
+
+packet capture dissections, protocol analysis exercises.
+
+📁 **research_node[threats]**
+
+threat intelligence notes, open-source research findings.
+
+📁 **auth_chain[certifications]**
+
+study plans, exam prep notes, certification journey.
+
+⚡ **Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.**
 
