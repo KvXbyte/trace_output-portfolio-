@@ -1,5 +1,9 @@
-# 🏆 chain_milestones
+# 🏁 chain_milestones
 
-Earned certifications, milestone achievements, and validation of progress. 
+This folder holds final certification documents, earned badges, and milestone markers.
 
-Proof that learning never stops.
+PDFs, screenshots, and summary logs may be stored here to reflect progression through the certification chain.
+
+---
+
+> Badges don’t speak for themselves—but the path to them tells a story.
