@@ -14,6 +14,7 @@ Each report includes:
 | Date       | Threat Report Title                                                   | Link                                                                 |
 |------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
 | 2025-06-30 | Iranian State‑Sponsored Cyber Operations – CISA Joint Advisory        | [Read Report](iran_state_sponsored_operations_fact_sheet_june2025.md) |
+| 2025-06-30 | Kawa4096 Ransomware Double‑Extortion Campaign – Red Piranha           | [Read Report](kawa4096_ransomware_double_extortion_june2025.md) |
 
 ---
 
