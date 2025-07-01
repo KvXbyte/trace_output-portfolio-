@@ -30,3 +30,6 @@ RDP remains a pervasive weak point—especially when coupled with lateral tools 
 The carbon-copy of password-spray → credential dumping → ransomware execution signals how much detection value still lives in log analysis.
 
 ---  
+
+**Logged for those who care to look.**  
+— KvXbyte
