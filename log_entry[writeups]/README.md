@@ -1,16 +1,19 @@
-# 📝 log_entry[writeups]
+# 📓 log_entry[writeups]
 
-Analysis writeups, incident reports, and cybersecurity narratives. 
+This node contains structured cybersecurity writeups, grouped into two categories:
 
-Turning logs and anomalies into stories — one byte at a time.
-
----
-
-## 📂 Sections
-
-- **incident_reports**: Detailed breakdowns of security events, simulated or practice incidents
-- **challenge_writeups**: Notes and solutions for CTF challenges, labs, or exercises
+- **Challenge Writeups**: Notes, solutions, and breakdowns of hands-on challenges, CTFs, or TryHackMe-specific tasks.
+- **Incident Reports**: Simulated or real-case breakdowns that follow incident response structure—designed for storytelling, technical analysis, or log-driven investigations.
 
 ---
 
-Here you'll find documentation of what I've analyzed, learned, and uncovered along the way.
+## 🗂️ Subfolders
+
+| Folder               | Description                                              |
+|----------------------|----------------------------------------------------------|
+| `challenge_writeups` | Technical breakdowns of completed challenges or labs     |
+| `incident_reports`   | Structured narratives of real-world or simulated events  |
+
+---
+
+> Each log entry helps sharpen clarity, reinforce memory, or tell a story worth decoding.
