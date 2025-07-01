@@ -1,5 +1,17 @@
 # 🌐 osint_notes
 
-Public threat intelligence observations and open-source findings. 
+Quick, structured observations and open-source intel findings from across the cybersecurity landscape.  
+These notes focus on early warning signals, attacker tooling, campaign tactics, and detection hints derived from trusted public sources.
 
-Documenting indicators, trends, and insights from the wider cybersecurity landscape.
+---
+
+## 📄 Entries
+
+| Date       | Threat Summary                                                        | Link                                                       |
+|------------|------------------------------------------------------------------------|------------------------------------------------------------|
+| 2025-06-30 | RansomHub RDP Password Spray + Credential Dumping – DFIR Summary      | [Read Note](ransomhub_password_spray_rdp.md)               |
+
+---
+
+> **Logged for those who care to look.**  
+> — KvXbyte
