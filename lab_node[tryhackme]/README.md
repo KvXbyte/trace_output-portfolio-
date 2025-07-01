@@ -1,16 +1,32 @@
-🔬 **lab_node[tryhackme]**
+# 🧪 lab_node[tryhackme]
 
-Sanitized notes and summaries from TryHackMe labs.
+This node contains module-specific notes, summaries, and refined exports from rooms completed on TryHackMe.  
+Each `module_` folder contains raw or structured documentation of hands-on labs, while the `completed_rooms` folder holds finalized summaries for professional display or personal reflection.
 
-Learning by doing — sharpening skills through practical exploration and discovery.
+---
 
-## Subfolders
+## 🗂️ Subfolders
 
-- `module_networking`: Networking labs and notes.
-- `module_command_line`: Command line labs and notes.
-- `completed_rooms`: Exported or finalized room data.
-- `resources`: Cheat sheets, references, and helpful links.
+| Folder                 | Description                                            |
+|------------------------|--------------------------------------------------------|
+| `module_linux_fundamentals` | Linux navigation, permissions, and process management |
+| `module_windows_ad`          | Windows systems, AD structure, and security essentials |
+| `module_command_line`        | CLI usage across Windows, PowerShell, and Linux         |
+| `module_networking`          | Protocols, traffic analysis, and Nmap scanning          |
+| `completed_rooms`            | Finalized summaries of completed rooms                  |
+| `resources`                  | Extra cheat sheets and learning aids                    |
 
-## Roadmap
+---
 
-See `roadmap.md` for progress tracking.
+## 📊 Module Progress Snapshot
+
+| Module                    | Status        | Export Summary                 |
+|---------------------------|---------------|--------------------------------|
+| Linux Fundamentals        | ✅ Complete   | `linux_fundamentals_export.md` |
+| Windows & AD              | ✅ Complete   | `windows_ad_export.md`         |
+| Command Line              | ✅ Complete   | `command_line_export.md`       |
+| Networking                | ✅ Complete   | `networking_export.md`         |
+
+---
+
+> Learn. Record. Refine. Every module logged here feeds the signal KvXbyte defends with.
