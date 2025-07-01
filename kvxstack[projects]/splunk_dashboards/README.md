@@ -1,5 +1,12 @@
 # 📊 splunk_dashboards
 
-A collection of Splunk dashboards, saved searches, and macros. 
+This folder will contain Splunk dashboards focused on visibility, detection, and event correlation.
 
-Visualizing security events, suspicious patterns, and operational trends to strengthen detection and response.
+Dashboards may include:
+- Authentication anomaly tracking
+- MITRE ATT&CK mapping visuals
+- Threat-specific visualizations
+
+---
+
+> Visualizations are coming—where logs meet context.
