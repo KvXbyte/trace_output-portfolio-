@@ -22,6 +22,7 @@ Split into two branches:
 | Date       | Title                                                                 | Folder        | Link                                                                 |
 |------------|------------------------------------------------------------------------|----------------|----------------------------------------------------------------------|
 | 2025-06-30 | Iranian State‑Sponsored Cyber Operations – CISA Joint Advisory        | `threat_reports` | [Read Report](threat_reports/iran_state_sponsored_operations_fact_sheet_june2025.md) |
+| 2025-06-30 | Kawa4096 Ransomware Double‑Extortion Campaign – Red Piranha           | `threat_reports` | [Read Report](threat_reports/kawa4096_ransomware_double_extortion_june2025.md) |
 | 2025-06-30 | RansomHub RDP Password Spray + Credential Dumping – DFIR Summary      | `osint_notes`  | [Read Note](osint_notes/ransomhub_password_spray_rdp.md)             |
 
 ---
