@@ -1,12 +1,30 @@
-# 🕵️ research_node[threats]
+# 🧠 research_node[threats]
 
-Threat intelligence notes, open-source research findings, and adversary mapping. 
+This node houses documented research and analysis on adversary behavior, campaigns, and public threat intelligence.  
+Split into two branches:
 
-Studying tactics, techniques, and patterns to strengthen defenses and anticipate attacks.
+- `osint_notes/`: Quick notes, indicators, and observations from public threat intel sources  
+- `threat_reports/`: Full breakdowns of attacks or campaigns with MITRE mapping, detection tips, and KvXbyte commentary
 
 ---
 
-## 📂 Sections
+## 📁 Directory Index
 
-- **osint_notes**: Public threat intelligence observations and findings
-- **threat_reports**: Structured reports on specific threat actors, campaigns, or techniques
+| Folder        | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| 🌐 [osint_notes](osint_notes/)   | Public threat intel observations and open-source findings            |
+| 📄 [threat_reports](threat_reports/) | Full-scope threat analysis with MITRE & detection insights             |
+
+---
+
+## 📄 Notable Reports
+
+| Date       | Title                                                                 | Folder        | Link                                                                 |
+|------------|------------------------------------------------------------------------|----------------|----------------------------------------------------------------------|
+| 2025-06-30 | Iranian State‑Sponsored Cyber Operations – CISA Joint Advisory        | `threat_reports` | [Read Report](threat_reports/iran_state_sponsored_operations_fact_sheet_june2025.md) |
+| 2025-06-30 | RansomHub RDP Password Spray + Credential Dumping – DFIR Summary      | `osint_notes`  | [Read Note](osint_notes/ransomhub_password_spray_rdp.md)             |
+
+---
+
+> **Logged for those who care to look.**  
+> — KvXbyte
