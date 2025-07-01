@@ -1,5 +1,13 @@
-# 🛠️ utility_scripts
+# 🧰 utility_scripts
 
-Small tools, bash snippets, and configuration templates to streamline workflows and support analysis. 
+Reserved for general-purpose security utilities and command-line scripts.
 
-Building practical helpers, one script at a time.
+These may include:
+- Log sanitizers
+- Hash checkers
+- IP/Domain enrichment tools
+- Incident response support scripts
+
+---
+
+> Small tools. Big impact. Coming soon.
