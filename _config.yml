@@ -21,9 +21,17 @@ defaults:
 
 minimal_mistakes_skin: "dark"
 
-# Navigation
+# Navigation bar items
 header_pages:
   - _pages/index.md
+  - _pages/about.md
+
+# Top nav links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
 
 # Optional social footer
 author:
