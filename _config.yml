@@ -31,7 +31,5 @@ header_pages:
   - _pages/index.md
   - _pages/about.md
 
-  avatar: "/assets/images/avatar.png"
-  bio: "Signal analyst. Defender of logs. Speaker of packet truths."
-
-# Trigger rebuild
+avatar: "/assets/images/avatar.png"
+bio: "Signal analyst. Defender of logs. Speaker of packet truths."
