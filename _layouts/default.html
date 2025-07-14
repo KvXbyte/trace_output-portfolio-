@@ -2,9 +2,23 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | default: "KvXbyte Protocol Log" }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/trace_output-portfolio-/assets/style.css">
   </head>
   <body>
-    {{ content }}
+    <header>
+      <h1>⚡ KvXbyte Protocol Log</h1>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p style="margin-top: 2rem; font-size: 0.8rem; color: #666;">
+        Site maintained by KvXbyte. Rendered via GitHub Pages + Jekyll.
+      </p>
+    </footer>
   </body>
 </html>
