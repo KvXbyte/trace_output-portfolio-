@@ -1,41 +1,22 @@
-> Where defense meets curiosity, and every log tells a story.
+# The KvX Directive
+
+> Where defense meets curiosity, and every log tells a story. A structured cybersecurity portfolio by Nickalos E. (KvXbyte)
+
+This repository contains hands-on cybersecurity labs and notes from TryHackMe.
+
+## 📁 TryHackMe Lab Modules
+
+- [Module Command Line](lab_node[tryhackme]/module_command_line/README.md)  
+- [Module Networking](lab_node[tryhackme]/module_networking/README.md)  
+- [Module Crypto Encryption](lab_node[tryhackme]/module_crypto_encryption/README.md)  
+- [Module Windows AD](lab_node[tryhackme]/module_windows_ad/README.md)  
+- [Completed Rooms](lab_node[tryhackme]/completed_rooms/README.md)  
+- [Resources](lab_node[tryhackme]/resources/README.md)  
 
 ---
 
-## 📚 Overview
-
-Here you’ll find projects, labs, research, and study materials from my journey through defensive security, threat analysis, and more.
+_This repository is structured for clarity and growth. Each module includes its own README and relevant notes._
 
 ---
 
-### 📁 Repository Sections
-
-&nbsp;  
-- [🛡️ auth_chain[**certifications**]](./auth_chain)  
-  → study plans, exam prep notes, and certification milestones.  
-&nbsp;  
-- [⚙️ kvxstack[**projects**]](./kvxstack)  
-  → security tools and custom experiments.  
-&nbsp;  
-- [📘 log_entry[**writeups**]](./log_entry)  
-  → analysis writeups, reports, and cybersecurity narratives.  
-&nbsp;  
-- [🧠 research_node[**threats**]](./research_node)  
-  → threat intelligence notes and research findings.  
-&nbsp;  
-- [🧪 lab_node[**tryhackme**]](./lab_node)  
-  → sanitized notes and summaries from TryHackMe labs.  
-&nbsp;  
-- [🖥️ siem_node[**splunk**]](./siem_node)  
-  → Splunk dashboards, queries, and configuration snippets.  
-&nbsp;  
-- [🌐 netflow_dossier[**wireshark**]](./netflow_dossier)  
-  → packet capture dissections and protocol analysis exercises.  
-&nbsp;  
-- [🎯 tactic_map[**mitre-attack**]](./tactic_map)  
-  → MITRE ATT&CK mapping and adversary emulation research.  
-&nbsp;  
-
----
-
-> ⚡ *Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.*
+> *Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.*
