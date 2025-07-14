@@ -1,6 +1,6 @@
 title: The KvX Directive
 description: A signal archive maintained by KvXbyte.
-baseurl: ""
+baseurl: "" 
 url: "https://kvxbyte.github.io"
 theme: minimal-mistakes-jekyll
 
@@ -21,11 +21,19 @@ defaults:
 
 minimal_mistakes_skin: "dark"
 
-# Navigation
+# Navigation bar items
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+
+# Header pages (for layout compatibility)
 header_pages:
   - index.md
+  - _pages/about.md
 
-# Optional social footer
+# Optional author info for footers or meta
 author:
   name: "KvXbyte"
   avatar: "/assets/images/avatar.png"
