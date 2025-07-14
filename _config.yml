@@ -21,19 +21,11 @@ defaults:
 
 minimal_mistakes_skin: "dark"
 
-# Navigation bar items
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-
-# Header pages (for layout compatibility)
+# Navigation
 header_pages:
-  - index.md
-  - _pages/about.md
+  - _pages/index.md
 
-# Optional author info for footers or meta
+# Optional social footer
 author:
   name: "KvXbyte"
   avatar: "/assets/images/avatar.png"
