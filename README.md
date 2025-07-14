@@ -1,22 +1,45 @@
-# The KvX Directive
+# 📂 trace_output[portfolio]
 
-> Where defense meets curiosity, and every log tells a story. A structured cybersecurity portfolio by Nickalos E. (KvXbyte)
-
-This repository contains hands-on cybersecurity labs and notes from TryHackMe.
-
-## 📁 TryHackMe Lab Modules
-
-- [Module Command Line](lab_node[tryhackme]/module_command_line/README.md)  
-- [Module Networking](lab_node[tryhackme]/module_networking/README.md)  
-- [Module Crypto Encryption](lab_node[tryhackme]/module_crypto_encryption/README.md)  
-- [Module Windows AD](lab_node[tryhackme]/module_windows_ad/README.md)  
-- [Completed Rooms](lab_node[tryhackme]/completed_rooms/README.md)  
-- [Resources](lab_node[tryhackme]/resources/README.md)  
+> A digital workspace for my cybersecurity learning, labs, and documentation.  
+> This repo reflects my journey into security—from foundational knowledge to hands-on tools.
 
 ---
 
-_This repository is structured for clarity and growth. Each module includes its own README and relevant notes._
+## 🧪 Lab Work
+Explore structured exercises and walkthroughs across various platforms.
+
+- [`lab_node[tryhackme]`](lab_node[tryhackme]/README.md): Completed rooms, notes, and modules from TryHackMe.
 
 ---
 
-> *Stability isn’t flashy — but it’s necessary. Welcome to the byte between chaos and control.*
+## 🔍 Research Nodes
+Logs, threat reports, and exploratory documentation of real-world concepts.
+
+- [`research_node[threats]`](research_node[threats]/README.md): OSINT notes and threat actor breakdowns.
+
+---
+
+## ⚙️ Tools & Output
+Script snippets, filters, dashboards, and things I’ve built or tested.
+
+- [`siem_node[splunk]`](siem_node[splunk]/README.md): Notes, custom queries, and dashboards for Splunk.
+- [`capture_node[wireshark]`](capture_node[wireshark]/README.md): Sample PCAPs and Wireshark notes.
+
+---
+
+## 📓 Project Logbook
+Creative and structured logs of my portfolio development.
+
+- [`auth_chain[certs]`](auth_chain[certs]/README.md): Certifications and badge records.
+- [`trace_output[projects]`](trace_output[projects]/README.md): Writeups and active learning experiments.
+
+---
+
+## 🔧 Repository Resources
+
+This repo is designed with modular growth in mind.  
+Folder naming format: `type_descriptor[focus]` for clarity and consistency.
+
+---
+
+_This is part of **The KvX Directive**, a cybersecurity identity and learning initiative by Nickalos Early (KvXbyte)._
