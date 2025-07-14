@@ -33,3 +33,5 @@ header_pages:
 
   avatar: "/assets/images/avatar.png"
   bio: "Signal analyst. Defender of logs. Speaker of packet truths."
+
+# Trigger rebuild
