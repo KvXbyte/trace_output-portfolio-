@@ -1,5 +1,4 @@
 /* Font and Typography Tuning */
-
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
@@ -25,4 +24,18 @@ a {
 a:hover {
   text-decoration: underline;
   color: #00ffcc;
+}
+
+/* KvXbyte Directive Flair */
+hr {
+  border-color: #00ff99;
+  border-style: solid;
+  border-width: 1px;
+}
+
+blockquote {
+  border-left: 4px solid #00ff99;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #cccccc;
 }
