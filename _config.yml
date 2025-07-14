@@ -1,7 +1,7 @@
 title: The KvX Directive
 description: KvXbyte’s cybersecurity archive — structured logs, analysis, and operations.
 url: "https://kvxbyte.github.io"
-baseurl: ""
+baseurl: "/trace_output-portfolio-"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -10,27 +10,53 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Theme Settings
+minimal_mistakes_skin: "dark"  # Other options: air, neon, midnight, etc.
+
+# Default layout settings
 defaults:
   - scope:
       path: ""
+      type: "pages"
     values:
       layout: single
       author_profile: false
       read_time: false
 
-minimal_mistakes_skin: "dark"
-
-# Navigation
+# Navigation bar at top of page
 nav:
   - title: "Home"
     url: /
   - title: "About"
     url: /about/
+  - title: "GitHub"
+    url: https://github.com/kvxbyte
+  - title: "LinkedIn"
+    url: https://linkedin.com/in/nickalosearly
 
+# Pages to include in header
 header_pages:
   - _pages/index.md
   - _pages/about.md
 
+# Branding
+logo: "/assets/images/avatar.png"  # You can replace this with a KvXbyte logo later
 avatar: "/assets/images/avatar.png"
-bio: "Signal analyst. Defender of logs. Speaker of packet truths."
 
+# Identity (used by SEO, footer, social, etc.)
+name: "KvXbyte"
+bio: "Signal analyst. Defender of logs. Speaker of packet truths."
+email: "you@example.com" # Optional: Replace or remove
+twitter_username: kvxbyte
+github_username: kvxbyte
+linkedin_username: nickalosearly
+show_social_links: true
+
+# Custom CSS
+sass:
+  style: compressed
+
+# If you have a custom CSS file
+# You can add your stylesheet like this in an HTML include or via theme override
+# Example if you use /assets/css/custom.css
+# Include this in your layouts/head.html or enable via theme instructions
