@@ -1,6 +1,4 @@
-# 🛡️ trace_output[portfolio]
-
-Welcome to my cybersecurity portfolio — where defense meets curiosity, and every log tells a story.
+# Welcome to my cybersecurity portfolio — where defense meets curiosity, and every log tells a story.
 
 ---
 
