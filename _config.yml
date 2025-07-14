@@ -1,9 +1,9 @@
 title: The KvX Directive
 description: KvXbyte’s cybersecurity archive — structured logs, analysis, and operations.
-baseurl: ""
 url: "https://kvxbyte.github.io"
+baseurl: ""
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
@@ -20,7 +20,7 @@ defaults:
 
 minimal_mistakes_skin: "dark"
 
-# Nav items
+# Navigation
 nav:
   - title: "Home"
     url: /
@@ -33,3 +33,4 @@ header_pages:
 
 avatar: "/assets/images/avatar.png"
 bio: "Signal analyst. Defender of logs. Speaker of packet truths."
+
