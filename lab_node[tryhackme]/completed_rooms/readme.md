@@ -15,4 +15,4 @@ Unlike the raw notes in `module_*` folders, entries here are treated as clean **
 | `command_line_export.md`          | `module_command_line`         | CLI skills across Windows, PowerShell, Linux                 |
 | `networking_export.md`            | `module_networking`           | Protocols, traffic analysis, Nmap, and tools                 |
 | `crypto_encryption_export.md`     | `module_crypto_encryption`    | Encryption methods, hashing concepts, and password cracking  |
-| `exploitation_basics_export.md`   | `exploitation_basics`         | Real-world exploitation techniques and post-exploitation tools |
+| `exploitation_basics_export.md`   | `module_exploitation_basics`         | Real-world exploitation techniques and post-exploitation tools |
