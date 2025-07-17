@@ -16,11 +16,4 @@ Whether it’s a foundational cert or an advanced one, each entry reflects the p
 
 ---
 
-## 🔖 Roadmap
-Curious about what certifications I’m actively working on and why I chose them?
-
-📌 [View my current certification roadmap](../auth_chain/certifications/chain_study_plans/certification_roadmap.md)
-
----
-
 > Certs are more than a checkbox—they’re access tokens earned through signal and sweat.
