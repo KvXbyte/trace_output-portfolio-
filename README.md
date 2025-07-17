@@ -39,14 +39,6 @@ Creative and structured logs of my portfolio development.
 
 ---
 
-## 📌 Roadmap & Direction
-
-High-level overview of the certification path I’m following, along with my current and future focus areas.
-
-- [`certification_roadmap.md`](../auth_chain%5Bcertifications%5D/chain_study_plans/certification_roadmap.md): Tactical, low-code cybersecurity path with emphasis on detection, analysis, and Purple Team strategy.
-
----
-
 ## 🧰 Repository Resources
 
 This repo is designed with modular growth in mind.  
