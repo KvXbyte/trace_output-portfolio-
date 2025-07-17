@@ -1,34 +1,24 @@
-🧪 **lab_node[tryhackme]**
+# 📁 completed_rooms
 
-This node contains module-specific notes, summaries, and refined exports from rooms completed on TryHackMe.  
-Each `module_` folder contains raw or structured documentation of hands-on labs, while the `completed_rooms` folder holds finalized summaries for professional display or personal reflection.
+This folder contains refined summaries, exports, and polished reflections from completed TryHackMe rooms and learning modules.
 
----
-
-### 📁 Subfolders
-
-| Folder                     | Description                                                  |
-|----------------------------|--------------------------------------------------------------|
-| `module_linux_fundamentals` | Linux navigation, permissions, and process management         |
-| `module_windows_ad`         | Windows systems, AD structure, and security essentials        |
-| `module_command_line`       | CLI usage across Windows, PowerShell, and Linux              |
-| `module_networking`         | Protocols, traffic analysis, and Nmap scanning               |
-| `module_crypto_encryption`  | Symmetric/asymmetric encryption, hashing, password cracking  |
-| `completed_rooms`           | Finalized summaries of completed rooms                       |
-| `resources`                 | Extra cheat sheets and learning aids                         |
+Unlike the raw notes in `module_*` folders, entries here are treated as clean **exports**—useful for portfolio presentation, professional sharing, or final-stage documentation. Each file reflects key takeaways, learned skills, and personal insight.
 
 ---
 
-### 📊 Module Progress Snapshot
+## 📦 Export Index
 
-| Module              | Status     | Export Summary                  |
-|---------------------|------------|----------------------------------|
-| Linux Fundamentals  | ✅ Complete | `linux_fundamentals_export.md`   |
-| Windows & AD        | ✅ Complete | `windows_ad_export.md`           |
-| Command Line        | ✅ Complete | `command_line_export.md`         |
-| Networking          | ✅ Complete | `networking_export.md`           |
-| Cryptography        | ✅ Complete | `crypto_encryption_export.md`    |
+| File Name                      | Source Module              | Description                                                                 |
+|-------------------------------|----------------------------|-----------------------------------------------------------------------------|
+| `linux_fundamentals_export.md`     | `module_linux_fundamentals`     | Summary of Linux basics and system control                                 |
+| `windows_ad_export.md`             | `module_windows_ad`             | Overview of Windows OS and Active Directory                                |
+| `command_line_export.md`          | `module_command_line`           | CLI skills across Windows, PowerShell, and Linux                           |
+| `networking_export.md`            | `module_networking`             | Protocols, traffic analysis, Nmap, and tools                               |
+| `crypto_encryption_export.md`     | `module_crypto_encryption`      | Encryption methods, hashing concepts, and password cracking                |
+| `exploitation_basics_export.md`   | `module_exploitation_basics`    | Real-world exploitation techniques and post-exploitation tools             |
+| `web_hacking_export.md`           | `module_web_hacking`            | Web app security concepts: JavaScript, SQLi, Burp Suite, and OWASP Top 10  |
 
 ---
 
-> Built with purpose, refined through practice. KvXbyte’s vault of signal-tested skill.
+> 🧩 All exports here are part of the broader `lab_node[tryhackme]` repository.  
+> For raw learning notes, refer to the corresponding `module_*` folders.
