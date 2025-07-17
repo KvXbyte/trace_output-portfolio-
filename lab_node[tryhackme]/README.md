@@ -1,24 +1,32 @@
-# 📁 completed_rooms
+# 🧪 lab_node[tryhackme]
 
-This folder contains refined summaries, exports, and polished reflections from completed TryHackMe rooms and learning modules.
+This folder contains categorized labs, exports, and module notes based on completed learning paths from **TryHackMe**. Each subfolder represents a structured module focused on foundational skills, specific tools, or real-world scenarios in cybersecurity.
 
-Unlike the raw notes in `module_*` folders, entries here are treated as clean **exports**—useful for portfolio presentation, professional sharing, or final-stage documentation. Each file reflects key takeaways, learned skills, and personal insight.
-
----
-
-## 📦 Export Index
-
-| File Name                      | Source Module              | Description                                                                 |
-|-------------------------------|----------------------------|-----------------------------------------------------------------------------|
-| `linux_fundamentals_export.md`     | `module_linux_fundamentals`     | Summary of Linux basics and system control                                 |
-| `windows_ad_export.md`             | `module_windows_ad`             | Overview of Windows OS and Active Directory                                |
-| `command_line_export.md`          | `module_command_line`           | CLI skills across Windows, PowerShell, and Linux                           |
-| `networking_export.md`            | `module_networking`             | Protocols, traffic analysis, Nmap, and tools                               |
-| `crypto_encryption_export.md`     | `module_crypto_encryption`      | Encryption methods, hashing concepts, and password cracking                |
-| `exploitation_basics_export.md`   | `module_exploitation_basics`    | Real-world exploitation techniques and post-exploitation tools             |
-| `web_hacking_export.md`           | `module_web_hacking`            | Web app security concepts: JavaScript, SQLi, Burp Suite, and OWASP Top 10  |
+The `module_*` folders hold raw learning notes, lab walkthroughs, and reference material, while polished exports are collected under `completed_rooms`.
 
 ---
 
-> 🧩 All exports here are part of the broader `lab_node[tryhackme]` repository.  
-> For raw learning notes, refer to the corresponding `module_*` folders.
+## 📂 Directory Overview
+
+| Folder Name                  | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| `module_linux_fundamentals`     | Core Linux commands, navigation, user permissions, and file structures     |
+| `module_windows_ad`             | Windows internals, Active Directory basics, and privilege escalation       |
+| `module_command_line`           | Cross-platform CLI commands (CMD, PowerShell, Bash) and terminal fluency  |
+| `module_networking`             | Network layers, protocols, packet analysis, and scanning tools             |
+| `module_crypto_encryption`      | Cryptography concepts, hashing, and encryption techniques                  |
+| `module_exploitation_basics`    | Vulnerability exploitation, reverse shells, and post-exploitation steps   |
+| `module_web_hacking`            | Web technologies, JavaScript/SQLi awareness, Burp Suite, OWASP Top 10      |
+| `completed_rooms`               | Finalized exports and reflections from completed modules                   |
+
+---
+
+## 🧠 Notes
+
+- All entries are part of an ongoing effort to build a practical, well-documented cybersecurity learning archive.
+- Raw lab notes live in `module_*` folders.
+- Refined writeups and proof-of-work artifacts live in `completed_rooms`.
+
+---
+
+> 🗂️ This structure aligns with the broader portfolio format and may be referenced from GitHub Pages, resumes, or professional conversations.
