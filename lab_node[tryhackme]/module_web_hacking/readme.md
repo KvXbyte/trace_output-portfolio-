@@ -1,48 +1,28 @@
-# 🛠️ module_web_hacking
+# 🌐 module_web_hacking
 
-Explore the fundamentals of web application security, including HTTP behavior, basic scripting, and vulnerability discovery through structured TryHackMe rooms. This module introduces essential concepts and tools used in modern web-based attack and defense.
-
----
-
-## 📘 Module Summary
-
-**Platform:** TryHackMe  
-**Status:** ✅ Completed  
-**Focus Areas:** Web apps, JavaScript, SQL, Burp Suite, OWASP Top 10  
-**Core Tools & Concepts:** HTTP, JS, SQL, Burp Suite, OWASP Top 10 vulnerabilities
+This folder contains lab notes, structured walkthroughs, and quick-reference files related to TryHackMe’s Web Hacking module. Topics focus on web application architecture, client-side scripting, database query manipulation, interception tooling, and common vulnerability patterns.
 
 ---
 
-## ✅ Completed Rooms
+## 📚 Contents
 
-| Room Title                 | Summary                                                                 |
-|---------------------------|-------------------------------------------------------------------------|
-| **Web Application Basics** | Covered HTTP requests/responses, status codes, headers, and URL structures. |
-| **JavaScript Essentials**  | Introduced JS interactivity and how it can be exploited or abused.         |
-| **SQL Fundamentals**       | Demonstrated how SQL queries work and introduced SQL injection principles. |
-| **Burp Suite: The Basics** | Hands-on with Burp Suite intercepting requests and performing basic tests. |
-| **OWASP Top 10 - 2021**    | Deep dive into the 10 most common web app vulnerabilities and how to exploit them. |
-
----
-
-## 🧠 Key Takeaways
-
-- Better understanding of **client-server behavior** through web protocols.
-- Recognized how **JavaScript can be manipulated** in the browser and used in attacks.
-- Practiced **SQL injection basics** and how to recognize weak query logic.
-- Gained hands-on experience with **Burp Suite**, a key tool for web pentesters.
-- Mapped vulnerabilities using **OWASP Top 10** as a real-world threat framework.
+| File Name                    | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| `01_web_basics.md`               | Overview of HTTP, URLs, request/response flow, status codes, and headers    |
+| `02_javascript_essentials.md`   | Intro to JS behaviors and how it’s used/exploited in web environments       |
+| `03_sql_fundamentals.md`        | SQL syntax, injection basics, and database manipulation techniques          |
+| `04_burp_suite_basics.md`       | Setup and usage of Burp Suite for proxying and tampering with web traffic   |
+| `05_owasp_top10.md`             | Summaries and examples from OWASP Top 10 vulnerabilities (2021 edition)     |
 
 ---
 
-## 🔗 Related Skills & Topics
+## 🧠 Module Goals
 
-- HTTP/HTTPS | Request Methods | URL Encoding  
-- JavaScript DOM manipulation | Input validation  
-- SQL Injection (SQLi) | Database query structure  
-- Burp Suite Workflow | Proxy Interception | Repeater  
-- OWASP A1–A10 | Web App Security Principles  
+- Understand the core mechanisms of how web apps function
+- Identify and exploit common web vulnerabilities
+- Gain hands-on experience with tools like Burp Suite
+- Map security weaknesses using OWASP methodologies
 
 ---
 
-> 📌 *This module is part of the `lab_node[tryhackme]` portfolio collection. For more, return to the [main TryHackMe index](../README.md).*
+> 📦 For finalized summaries of these rooms, visit the corresponding export file in `completed_rooms/web_hacking_export.md`.
