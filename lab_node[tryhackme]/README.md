@@ -23,7 +23,7 @@ The `module_*` folders hold raw learning notes, lab walkthroughs, and reference 
 | **module_security_solutions**     | SIEM basics, firewalls, IDS, and vulnerability scanning fundamentals       |  
 | **module_defensive_security_tooling** | CyberChef, CAPA, REMnux, and FlareVM tooling for malware/forensic analysis |  
 | **module_cybersecurity_career**   | Security principles, career paths, and the impact of training on teams     |  
-| completed_rooms                   | Finalized exports and reflections from completed modules                  |  
+| completed_modules                 | Finalized exports and reflections from completed modules                  |  
 
 ---
 
