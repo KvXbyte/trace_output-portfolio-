@@ -1,4 +1,4 @@
-🧭 certification_roadmap.md  
+🧭 **certification_roadmap.md**  
 
 This roadmap reflects my tactical cybersecurity path—focused on detection, DFIR (Digital Forensics & Incident Response), and real-world defensive operations without relying on deep programming knowledge.  
 
