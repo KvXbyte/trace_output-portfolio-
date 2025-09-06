@@ -20,9 +20,9 @@ The `module_*` folders hold raw learning notes, lab walkthroughs, and reference 
 | module_web_hacking                | Web technologies, JavaScript/SQLi awareness, Burp Suite, OWASP Top 10     |  
 | module_defensive_security         | SOC operations, forensics, incident response, log analysis                 |  
 | module_offsec_tools               | Offensive tools like Hydra, Gobuster, SQLMap, and shell access             |  
-| **module_security_solutions**     | SIEM basics, firewalls, IDS, and vulnerability scanning fundamentals       |  
-| **module_defensive_security_tooling** | CyberChef, CAPA, REMnux, and FlareVM tooling for malware/forensic analysis |  
-| **module_cybersecurity_career**   | Security principles, career paths, and the impact of training on teams     |  
+| module_security_solutions         | SIEM basics, firewalls, IDS, and vulnerability scanning fundamentals       |  
+| module_defensive_security_tooling | CyberChef, CAPA, REMnux, and FlareVM tooling for malware/forensic analysis |  
+| module_cybersecurity_career       | Security principles, career paths, and the impact of training on teams     |  
 | completed_modules                 | Finalized exports and reflections from completed modules                  |  
 
 ---
