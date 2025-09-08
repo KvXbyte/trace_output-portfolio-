@@ -23,7 +23,7 @@ Logs, threat reports, and exploratory documentation of real-world concepts.
 Script snippets, filters, dashboards, and things I've built or tested.
 
 - [**siem_node[splunk]**](./siem_node[splunk]/) — Notes, custom queries, and dashboards for Splunk.  
-- [**capture_node[wireshark]**](./capture_node[wireshark]/) — Sample PCAPs and Wireshark notes.
+- [**capture_node[wireshark]**](./capture_node[wireshark]/) — Sample PCAPs and Wireshark notes.  
 
 ---
 
@@ -31,6 +31,13 @@ Script snippets, filters, dashboards, and things I've built or tested.
 A curated list of platforms and resources for detection, forensics, and incident response.
 
 - [**tools_index[platforms]**](./tools_index[platforms]/) — References and notes on platforms like SOC Prime TDM, MITRE ATT&CK, Sigma, and more.
+
+---
+
+## 🔥 The Forge
+A personal workshop for self-built experiments, tool testing, and proof-of-work scenarios.
+
+- [**the_forge[experiments]**](./the_forge[experiments]/) — Custom experiments with DFIR and SOC tools (e.g., phishing analysis, memory dumps, Splunk queries).  
 
 ---
 
