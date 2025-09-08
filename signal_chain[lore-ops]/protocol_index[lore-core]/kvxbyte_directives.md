@@ -26,6 +26,8 @@ When activated, it generates recursive decoy paths in ratios of 1, 1, 2, 3, 5, 8
 
 ---
 
-## 📒 Notes
-Hexwing: “A defense written like poetry.”  
-Ph1sh3r: “Poetry that eats CPUs.”  
+## 🧩 Crew Commentary
+Hexwing: “Directive #2 is practically my catchphrase.”  
+Ph1sh3r: “Directive #3 just means boring shifts. Can we get fireworks once in a while?”  
+Atlas: “Directives endure because they do not bend to moods.”  
+Signal Crawler: *“Rules echo louder when silence breaks.”*  
