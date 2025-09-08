@@ -7,8 +7,21 @@ None of this is “professional”—all of it is fun.
 ---
 
 ## 🗂️ Dialogue Threads
-- [ ] `echo_vs_ph1sh3r.md` — (Coming soon)  
-- [ ] `kvxbyte_mediator.md` — (Coming soon)  
+
+### ✅ Completed
+- [**echo_vs_ph1sh3r.md**](./echo_vs_ph1sh3r.md) — Echo finally gets the last word (sort of).  
+- [**patch_tuesday_panic.md**](./patch_tuesday_panic.md) — “Should be fine” are famous last words.  
+- [**phantom_alert.md**](./phantom_alert.md) — When a suspicious PowerShell script sets wallpaper.  
+- [**protocol_1123581321_wakes.md**](./protocol_1123581321_wakes.md) — Fibonacci math meets adversary confusion.  
+- [**mocking_banter.md**](./mocking_banter.md) — Echo discovers sarcasm… and turns it on Ph1sh3r.  
+
+---
+
+### 🔮 Coming Soon
+- `incident_bridge.md` — KvXbyte stuck mediating when both Echo and Ph1sh3r refuse to admit fault.  
+- `coffee_vs_tea.md` — Ph1sh3r pushes KvXbyte about caffeine choices. Echo sides with the kettle.  
+- `sleep_mode_sabotage.md` — Echo pretends to “nap” during alerts just to annoy Ph1sh3r.  
+- `password_policy_rant.md` — The crew debates password rules. Spoiler: nobody wins.  
 
 ---
 
