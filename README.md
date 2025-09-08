@@ -23,7 +23,7 @@ Logs, threat reports, and exploratory documentation of real-world concepts.
 Script snippets, filters, dashboards, and things I've built or tested.
 
 - [**siem_node[splunk]**](./siem_node[splunk]/) — Notes, custom queries, and dashboards for Splunk.  
-- [**capture_node[wireshark]**](./capture_node[wireshark]/) — Sample PCAPs and Wireshark notes.  
+- [**netflow_dossier[wireshark]**](./netflow_dossier[wireshark]/) — Sample PCAPs and Wireshark notes.  
 
 ---
 
@@ -44,8 +44,17 @@ A personal workshop for self-built experiments, tool testing, and proof-of-work 
 ## 📓 Project Logbook
 Creative and structured logs of my portfolio development.
 
-- [**auth_chain[certs]**](./auth_chain[certs]/) — Certifications and badge records.  
-- [**trace_output[projects]**](./trace_output[projects]/) — Writeups and active learning experiments.
+- [**auth_chain[certifications]**](./auth_chain[certifications]/) — Certifications and badge records.  
+- [**kvxstack[projects]**](./kvxstack[projects]/) — Writeups and active learning experiments.  
+- [**log_entry[writeups]**](./log_entry[writeups]/) — Scenario notes, blog-style entries, and narrative writeups.  
+
+---
+
+## 📜 Lore & Frameworks
+Creative world-building, tactical mapping, and structured references.
+
+- [**signal_chain[lore-ops]**](./signal_chain[lore-ops]/) — KvXbyte lore, dialogue, and narrative operations.  
+- [**tactic_map[mitre-attack]**](./tactic_map[mitre-attack]/) — MITRE ATT&CK notes, tactics, and mappings.  
 
 ---
 
