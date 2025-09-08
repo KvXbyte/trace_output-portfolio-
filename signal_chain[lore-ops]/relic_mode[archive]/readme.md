@@ -1,15 +1,14 @@
-# 🗂️ relic_node[archive]
+# 🗃️ relic_node[archive]
 
-A digital graveyard for alternate timelines, failed story drafts, or lore ideas too weird even for Ph1sh3r.
-
-This is where you store the “maybe” content—non-canon, overwritten, or experimental pieces that still have value (or comedy). Who knows? One of these may get recompiled into future reality.
+The scrapyard of ideas. Half-broken concepts, old drafts, or lore bits that didn’t fit anywhere else.  
+They’re not “active canon,” but they still deserve a byte of daylight.  
 
 ---
 
-## 🕳️ Warning
+## 🗂️ Relics
+- [ ] `concept_[placeholder].md` — (Coming soon)  
 
-Contents may contain:
-- Rejected KvXbyte names  
-- Unfinished protocol scripts  
-- Wild Echo monologues  
-- Side characters that tried and failed to survive line one
+---
+
+## 🕸️ Notes
+Not everything survives production. This is where the ghosts of half-finished projects and lore experiments go to rest.  
