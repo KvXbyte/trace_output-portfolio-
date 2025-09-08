@@ -6,7 +6,7 @@ None of this is “professional”—all of it is fun.
 
 ---
 
-## 🗂️ Dialogue Threads
+## 📂 Dialogue Threads
 
 ### ✅ Completed
 - [**echo_vs_ph1sh3r.md**](./echo_vs_ph1sh3r.md) — Echo finally gets the last word (sort of).  
@@ -14,6 +14,7 @@ None of this is “professional”—all of it is fun.
 - [**phantom_alert.md**](./phantom_alert.md) — When a suspicious PowerShell script sets wallpaper.  
 - [**protocol_1123581321_wakes.md**](./protocol_1123581321_wakes.md) — Fibonacci math meets adversary confusion.  
 - [**mocking_banter.md**](./mocking_banter.md) — Echo discovers sarcasm… and turns it on Ph1sh3r.  
+- [**echo_becomes_hexwing.md**](./echo_becomes_hexwing.md) — The canon upgrade: Echo evolves into Hexwing, sharper talons included.  
 
 ---
 
