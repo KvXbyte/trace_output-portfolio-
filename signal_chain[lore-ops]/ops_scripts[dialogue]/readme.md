@@ -15,12 +15,13 @@ None of this is “professional”—all of it is fun.
 - [**protocol_1123581321_wakes.md**](./protocol_1123581321_wakes.md) — Fibonacci math meets adversary confusion.  
 - [**mocking_banter.md**](./mocking_banter.md) — Echo discovers sarcasm… and turns it on Ph1sh3r.  
 - [**echo_becomes_hexwing.md**](./echo_becomes_hexwing.md) — The canon upgrade: Echo evolves into Hexwing, sharper talons included.  
+- [**signal_crawler_joins.md**](./signal_crawler_joins.md) — The Crawler comes online, gains a voice, and the crew gets a haunted vehicle.  
 
 ---
 
 ### 🔮 Coming Soon
 - `incident_bridge.md` — KvXbyte stuck mediating when both Echo and Ph1sh3r refuse to admit fault.  
-- `coffee_vs_tea.md` — Ph1sh3r pushes KvXbyte about caffeine choices. Echo sides with the kettle.  
+- `coffee_vs_tea.md` — Ph1sh3r pushes KvXbyte about caffeine choices. Hexwing sides with the kettle.  
 - `sleep_mode_sabotage.md` — Echo pretends to “nap” during alerts just to annoy Ph1sh3r.  
 - `password_policy_rant.md` — The crew debates password rules. Spoiler: nobody wins.  
 
