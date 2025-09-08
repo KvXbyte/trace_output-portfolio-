@@ -16,11 +16,12 @@ None of this is “professional”—all of it is fun.
 - [**mocking_banter.md**](./mocking_banter.md) — Echo discovers sarcasm… and turns it on Ph1sh3r.  
 - [**echo_becomes_hexwing.md**](./echo_becomes_hexwing.md) — The canon upgrade: Echo evolves into Hexwing, sharper talons included.  
 - [**signal_crawler_joins.md**](./signal_crawler_joins.md) — The Crawler comes online, gains a voice, and the crew gets a haunted vehicle.  
+- [**atlas_revealed.md**](./atlas_revealed.md) — Atlas projects his halo form for the first time. KvXbyte gains his best friend; the crew gains their archivist.  
 
 ---
 
 ### 🔮 Coming Soon
-- `incident_bridge.md` — KvXbyte stuck mediating when both Echo and Ph1sh3r refuse to admit fault.  
+- `incident_bridge.md` — KvXbyte stuck mediating when both Hexwing and Ph1sh3r refuse to admit fault.  
 - `coffee_vs_tea.md` — Ph1sh3r pushes KvXbyte about caffeine choices. Hexwing sides with the kettle.  
 - `sleep_mode_sabotage.md` — Echo pretends to “nap” during alerts just to annoy Ph1sh3r.  
 - `password_policy_rant.md` — The crew debates password rules. Spoiler: nobody wins.  
