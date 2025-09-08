@@ -7,31 +7,32 @@ Practice basic forensic techniques on email artifacts.
 ---
 
 ## 🛠️ Tools Used
-- Email client (to export `.eml`)  
-- Online email header analyzer (e.g., MXToolbox)  
-- WHOIS / VirusTotal (for domains or attachments)  
+- MXToolbox Header Analyzer  
+- WHOIS Lookup  
+- VirusTotal / URLScan.io  
 
 ---
 
 ## 📂 Steps Taken
-1. Exported a fake phishing email sample (`sample_email.eml`).  
-2. Extracted and reviewed headers.  
-3. Identified anomalies (spoofed sender, mismatched domains, etc.).  
-4. Checked URLs/domains against threat intel sources.  
+1. Created a fake phishing email sample (`sample_email.eml`).  
+2. Loaded headers into MXToolbox for analysis.  
+3. Observed spoofed sender domain (`micros0ft-secure.com`) and suspicious link (`login-verification.co`).  
+4. Ran WHOIS lookup on sender domain → flagged as abnormal.  
+5. Checked suspicious URL on VirusTotal → multiple vendors flagged it as phishing.  
 
 ---
 
 ## 📊 Findings
-- Suspicious domain: `login-verification[.]co`  
-- Sender IP traced to unusual ASN  
-- Links redirected to credential-harvesting site  
+- **Suspicious Domain:** `login-verification[.]co`  
+- **Spoofed Sender:** `support@micros0ft-secure.com`  
+- **Redirection:** URL would likely lead to credential-harvesting page  
 
 ---
 
 ## 🎯 Takeaways
-- Reinforced skill in reading email headers  
-- Practiced using external validation tools  
-- Identified practical workflow for quick SOC triage  
+- Reinforced workflow for analyzing email headers.  
+- Learned to validate domains/links against external intel.  
+- Demonstrated how simple artifacts (headers, links) reveal phishing intent.  
 
 ---
 
