@@ -1,16 +1,15 @@
-# 🧬 protocol_index[lore-core]
+# 📑 protocol_index[lore-core]
 
-The structured core of the KvXbyte directive.
-
-Here you’ll find foundational lore entries—origin files, character overviews, mission statements, and governing tech concepts that make the universe consistent (and optionally mysterious).
+The lore archive: directives, character files, and world-building scraps.  
+This is where KvXbyte’s story infrastructure lives—part cybersecurity framework, part weird sci-fi codex.  
 
 ---
 
-## 🧾 Likely Files
+## 🗂️ Protocol Files
+- [ ] `protocol_1123581321.md` — Fibonacci-based defense algorithm (coming soon)  
+- [ ] `kvxbyte_directives.md` — Core rules of operation (coming soon)  
 
-- `KvXbyte_core_directive.md`  
-- `Sentinel_of_Unindexed_manifest.md`  
-- `Echo_unit_init.md`  
-- `Ph1sh3r_personality_patch.md`
+---
 
-Perfect for aligning story tone, or just flexing worldbuilding with cyber depth.
+## 🧩 Notes
+This is the serious-but-strange heart of the lore. Expect math, ATT&CK-inspired structures, and things that read like they shouldn’t work—but somehow do.  
