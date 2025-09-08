@@ -9,13 +9,16 @@ This folder holds the living, breathing (and occasionally sarcastic) entities of
 
 ### ✅ Existing
 - [**KvXbyte.md**](./KvXbyte.md) — The byte standing between signal and noise.  
+- [**Hexwing.md**](./Hexwing.md) — Once Echo the drone, now reborn as a full-fledged data owl. Recon, HUD assistant, and sass translator.  
+- [**Ph1sh3r.md**](./Ph1sh3r.md) — Sarcastic husky-bot. Comic relief, reluctant support, occasional genius.  
+- [**Signal_Crawler.md**](./Signal_Crawler.md) — The Oracle-vehicle. Cryptic riddles, endless search, and haunted wheels.  
+- [**Atlas.md**](./Atlas.md) — Archivist, advisor, and KvXbyte’s best friend. Lives in every system, projects a halo form.  
 
 ---
 
 ### 🔮 Coming Soon
-- `Hexwing.md` — Once just Echo, now upgraded into a full-fledged data owl. Recon, HUD assistant, and sass translator.  
-- `Ph1sh3r.md` — Sarcastic husky-bot, comic relief, occasionally useful.  
-- `Signal Crawler.md` — The myth, the machine, the endless searcher.  
+- `other_allies.md` — Placeholder for future additions.  
+- `adversaries.md` — Because every crew needs rivals.  
 
 ---
 
