@@ -21,7 +21,9 @@
 **[00:07] Ph1sh3r:** Oh good, Schrödinger’s payload. It’s both benign *and* annoying.
 
 **[00:08] KvXbyte:** Pull headers, enrich domain, tag ticket as “triage:light.”  
+
 **[00:09] Echo:** *bip* (Headers uploaded.)  
+
 **[00:10] Ph1sh3r:** If it turns out to be a newsletter, I’m filing a complaint with Marketing’s thesaurus.
 
 **[00:11] KvXbyte:** If it turns out to be a phish, I’m filing a complaint with your attitude.
