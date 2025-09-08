@@ -6,7 +6,7 @@ This project demonstrates how to analyze suspicious email artifacts, extract ind
 ---
 
 ## 📌 Contents
-- **notes.md** → Step-by-step documentation of the experiment  
+- **notes.md** → Documentation of the experiment  
 - **sample_email.eml** → Example phishing email (fake/simulated)  
 - **screenshots/** → Supporting evidence (headers, analysis tools, findings)  
 - **references.md** → Helpful resources and documentation links  
@@ -23,6 +23,6 @@ Focus areas:
 ---
 
 ## 📒 Status
-✅ Setup complete  
-🟨 Documentation in progress  
-⬜ Further testing & expansion planned  
+✅ Basic investigation complete  
+🟨 Screenshots/evidence can be expanded  
+⬜ Future improvements: add variations of phishing samples  
