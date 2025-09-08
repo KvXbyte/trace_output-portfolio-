@@ -1,14 +1,14 @@
-# 🗃️ byte_vault[logbook]
+# 📓 byte_vault[logbook]
 
-Not every threat comes with a CVE.
-
-This folder contains KvXbyte's stylized logs—short-form stories, incident fictions, and reconstructed threat scenarios. Inspired by real security concepts, each logbook entry blends narrative with SOC-flavored experience.
-
-Some are dramatic. Some are dry. All are packets of meaning wrapped in code and consequence.
+Where “incident reports” meet creative storytelling.  
+This is KvXbyte’s casebook: tales written like DFIR logs, protocol files encrypted in narrative form, and the occasional dramatic retelling of system chaos.  
 
 ---
 
-## 📌 Notes
+## 🗂️ Entries
+- [ ] `log_entry_[placeholder].md` — (Coming soon)  
 
-- Stories follow an in-universe style and may include timestamps, AI overlays, or corrupted segments.
-- Technical integrity is preserved—these may teach, mislead, or even self-reference.
+---
+
+## 🔒 Notes
+Think of this as a black box flight recorder—but with more sarcasm and less jet fuel.  
