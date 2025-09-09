@@ -1,19 +1,26 @@
 # 📓 log_entry[writeups]
 
-This node contains structured cybersecurity writeups, grouped into two categories:
+This node contains **structured cybersecurity writeups**, grouped into two main categories:  
 
-- **Challenge Writeups**: Notes, solutions, and breakdowns of hands-on challenges, CTFs, or TryHackMe-specific tasks.
-- **Incident Reports**: Simulated or real-case breakdowns that follow incident response structure—designed for storytelling, technical analysis, or log-driven investigations.
+- **🧩 Challenge Writeups** → Hands-on challenge/lab breakdowns (TryHackMe, CTFs, scenario labs)  
+- **🚨 Incident Reports** → Simulated or real-case narratives following an incident response structure  
 
----
-
-## 🗂️ Subfolders
-
-| Folder               | Description                                              |
-|----------------------|----------------------------------------------------------|
-| `challenge_writeups` | Technical breakdowns of completed challenges or labs     |
-| `incident_reports`   | Structured narratives of real-world or simulated events  |
+Each entry reinforces technical skills, storytelling clarity, and the ability to document investigations for SOC/DFIR workflows.
 
 ---
 
-> Each log entry helps sharpen clarity, reinforce memory, or tell a story worth decoding.
+## 📂 Subfolders
+
+| Folder | Description |
+|--------|-------------|
+| [challenge_writeups](./challenge_writeups) | Technical breakdowns of completed challenges, labs, or CTF tasks |
+| [incident_reports](./incident_reports) | Structured narratives of real-world or simulated incident cases |
+
+---
+
+## 📝 Notes
+- Templates are included in each subfolder for consistency.  
+- Real entries (e.g., **Summit** and **Eviction**) showcase documentation style.  
+- This section will expand as more challenges and incident simulations are completed.  
+
+> “Each log entry sharpens the blade — whether solving puzzles or reporting incidents.”
