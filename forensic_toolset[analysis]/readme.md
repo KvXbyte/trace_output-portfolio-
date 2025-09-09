@@ -6,10 +6,10 @@ Where `dfir_models[kill-chains]` covers *frameworks* for thinking, this folder c
 ---
 
 ## 📚 Sections
-- **memory_forensics.md** → RAM capture, Volatility, Rekall, Redline  
-- **disk_forensics.md** → Autopsy, FTK Imager, Sleuth Kit  
-- **log_analysis.md** → Windows Event Logs, Sysmon, Splunk, Elastic  
-- **tools_index.md** → Master index of all tools & references  
+- **[memory_forensics.md](./memory_forensics.md)** → RAM capture, Volatility, Rekall, Redline  
+- **[disk_forensics.md](./disk_forensics.md)** → Autopsy, FTK Imager, Sleuth Kit  
+- **[log_analysis.md](./log_analysis.md)** → Windows Event Logs, Sysmon, Splunk, Elastic  
+- **[tools](./tools/README.md)** → Tool-specific notes and indexes  
 
 ---
 
