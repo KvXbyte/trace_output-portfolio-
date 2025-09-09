@@ -1,13 +1,17 @@
-# 🚨 incident_reports
+# 🚨 Incident Reports
 
-This folder will hold simulated or structured incident reports.  
-Each entry is written in the voice of an analyst responding to a security event—fictional, educational, or real.
-
-Use cases include:
-- Scenario-based incident response practice
-- Storytelling infused with real-world tactics
-- Documentation exercises that mirror IR templates
+This folder contains **structured incident reports**, written in an IR/SOC format.  
+Reports are based on either **simulated scenarios** (labs, challenges) or **real-world style case studies**.
 
 ---
 
-> Every incident has a pattern—and every report sharpens your eye for it.
+## 📚 Contents
+- [template_incident_report.md](./template_incident_report.md) → Standard IR reporting template  
+- [eviction_incident_report.md](./eviction_incident_report.md) → Example incident case (persistence + eviction workflow)  
+
+---
+
+## 📝 Notes
+- Incident reports mirror **professional SOC deliverables**.  
+- Each report includes **executive summary, timeline, analysis, MITRE mappings, and lessons learned**.  
+- Future reports may expand into DFIR case libraries and threat actor tracking.  
