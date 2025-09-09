@@ -5,27 +5,27 @@
 ---
 
 ## Focus Areas
-- Core SOC analyst skills (log analysis, escalation, response)  
-- Networking & protocols (TCP/IP, DNS, HTTP, packets)  
-- Security monitoring tools (SIEM, IDS/IPS, EDR basics)  
+- SOC Analyst fundamentals (triage, escalation, response)  
+- Core Networking (TCP/IP, DNS, HTTP)  
+- Security Monitoring (SIEM queries, IDS/IPS, EDR basics)  
 - Threat intelligence & common adversary techniques  
 
 ---
 
 ## Resources
-- TryHackMe SOC Analyst Level 1 Path (all included rooms)  
-- Splunk integration labs (SIEM queries, dashboards)  
-- Supplementary practice with Wireshark & Sysmon  
+- TryHackMe SOC Analyst Level 1 Path  
+- Splunk integration labs (searches, dashboards)  
+- Wireshark/Tcpdump captures for packet practice  
+- Windows Event Logs + Sysmon  
 
 ---
 
 ## Timeline
 - **Start:** 2025 (post-Security+)  
-- **Target Completion:** Ongoing (to overlap with CySA+ prep)  
+- **Target Completion:** End of 2025  
 
 ---
 
 ## Notes
-- While not a formal certification, **SAL1 is widely recognized by recruiters** as a proof-of-skill path.  
-- Completion ties directly into GitHub exports under `lab_node[tryhackme]`.  
-- Reinforces readiness for **SOC Tier 1 roles**.
+While not a formal certification, **SAL1 is recruiter-recognized**.  
+It demonstrates SOC Tier 1 readiness and complements CySA+ by showing hands-on application.
