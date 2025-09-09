@@ -1,13 +1,16 @@
-# 🧠 challenge_writeups
+# 🧩 Challenge Writeups
 
-This folder is reserved for technical notes and documented solutions from individual cybersecurity challenges.  
-This may include TryHackMe-specific tasks, custom CTFs, puzzle rooms, or standalone labs not tied to a full module.
-
-Entries here will:
-- Include step-by-step breakdowns
-- Explain logic behind commands or payloads
-- Emphasize lessons learned over just answers
+This folder contains **technical breakdowns** of completed challenges, CTF tasks, or hands-on labs.  
+Each writeup follows a structured format to highlight **objectives, tools used, walkthroughs, lessons learned, and MITRE ATT&CK mappings**.
 
 ---
 
-> Challenges aren’t just solved—they’re documented, deconstructed, and demystified.
+## 📚 Contents
+- [template_challenge_writeup.md](./template_challenge_writeup.md) → Reusable framework for new entries  
+- [summit_writeup.md](./summit_writeup.md) → Example challenge writeup (Pyramid of Pain / Purple Team simulation)  
+
+---
+
+## 📝 Notes
+- Challenges reinforce **problem-solving** and **tool familiarity**.  
+- Documentation ensures repeatability and highlights **SOC/DFIR mindset**.  
