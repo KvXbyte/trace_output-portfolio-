@@ -6,19 +6,32 @@ Unlike `tactic_map[mitre-attack]`, which catalogs techniques, these frameworks s
 ---
 
 ## 📚 Included Frameworks
-- [Cyber Kill Chain](./cyber_kill_chain) → Classic 7-step intrusion model  
-- [Unified Kill Chain](./unified_kill_chain) → Extended model with more granular phases  
-- [Diamond Model](./diamond_model) → Relational model of adversary, infrastructure, capability, and victim  
+
+### [Cyber Kill Chain](./cyber_kill_chain)
+- [README.md](./cyber_kill_chain/README.md) → Overview of the 7-step model  
+- [ckc_to_mitre.md](./cyber_kill_chain/ckc_to_mitre.md) → Mapping Cyber Kill Chain phases to MITRE ATT&CK  
+
+---
+
+### [Unified Kill Chain](./unified_kill_chain)
+- [README.md](./unified_kill_chain/README.md) → Extended lifecycle model  
+- [ukc_to_mitre.md](./unified_kill_chain/ukc_to_mitre.md) → Mapping Unified Kill Chain phases to MITRE ATT&CK  
+
+---
+
+### [Diamond Model](./diamond_model)
+- [README.md](./diamond_model/README.md) → Overview of the relational analysis model  
+- [pivot_examples.md](./diamond_model/pivot_examples.md) → Practical pivots between Adversary, Infrastructure, Capability, and Victim  
 
 ---
 
 ## 🔗 Usage
-- Map ATT&CK techniques to kill chain phases  
-- Use Diamond Model to pivot investigations and connect adversary behaviors  
-- Build DFIR case studies with both chronological (Kill Chain) and relational (Diamond) perspectives  
+- **Kill Chains** → Help analysts narrate *when* in the intrusion lifecycle events occur.  
+- **Diamond Model** → Helps analysts map *relationships* between entities.  
+- **MITRE ATT&CK** → Provides the *granular details* (tactics/techniques) that plug into these models.  
 
 ---
 
 ## 📎 Cross-References
-- See [`../tactic_map[mitre-attack]`](../tactic_map[mitre-attack]) for ATT&CK mappings  
-- Related exports: `completed_modules/module_cyber_defence_frameworks.md`
+- See [`../tactic_map[mitre-attack]`](../tactic_map[mitre-attack]) for ATT&CK mappings.  
+- Related exports: [`completed_modules/module_cyber_defence_frameworks.md`](../completed_modules/module_cyber_defence_frameworks.md)  
