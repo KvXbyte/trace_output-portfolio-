@@ -1,27 +1,29 @@
 # 🎯 tactic_map[mitre-attack]
 
-This node houses documentation and analysis aligned to the MITRE ATT&CK framework.  
-Each entry explores adversary behaviors, mapped techniques, and practical detection or defense strategies.
-
-By breaking down tactics one layer at a time, this folder builds a strategic knowledge base useful in SOC, detection engineering, and threat emulation roles.
+Documentation and analysis aligned to the **MITRE ATT&CK framework**.  
+Entries map **adversary behaviors, techniques, and defensive strategies** with a focus on SOC/DFIR application.
 
 ---
 
-## 🗂️ Subfolders
+## 📂 Subfolders
 
-| Folder       | Description                                                  |
-|--------------|--------------------------------------------------------------|
-| `tactics`    | Notes on individual MITRE ATT&CK tactics and techniques.     |
-| `analysis`   | Pattern studies and behavioral mapping from threat actors.   |
-| `resources`  | Cheat sheets, MITRE visuals, and curated external references.|
-
----
-
-## 🔭 Current Focus
-
-- **Tactic:** Initial Access (TA0001)  
-  Draft notes available in `tactics/initial_access.md`
+| Folder | Description |
+|--------|-------------|
+| [tactics](./tactics) | Notes on individual MITRE ATT&CK tactics and techniques |
+| [analysis](./analysis) | Pattern studies and behavioral mapping from threat actors |
+| [resources](./resources) | Cheat sheets, MITRE visuals, and curated references |
 
 ---
 
-> Map the adversary, reinforce the signal. This is where detection becomes strategy.
+## 🔮 Planned Content
+- Technique breakdowns: **T1547.001 (Registry Run Keys)**, **T1070.006 (Timestomping)**  
+- Persistence + defense evasion entries with mappings  
+- Cross-references to `dfir_models[kill-chains]`  
+
+---
+
+## 📅 Last Updated
+- Repo initialized: 2025-06  
+- Next planned update: Q4 2025 (when first ATT&CK notes are added)  
+
+> “Map the tactic. Decode the technique. Anticipate the adversary.”
