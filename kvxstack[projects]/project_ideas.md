@@ -1,17 +1,22 @@
 # 💡 Project Ideas
 
-A running list of concepts, tools, and experiments I’d like to build or explore in the future.
+Brainstorming and future builds for portfolio expansion.
 
 ---
 
-## 🚀 Potential Projects
-
-- Splunk dashboard to visualize brute-force login attempts
-- Script to parse logs and extract IOCs into CSV format
-- Utility to compare known-good baseline configs against live data
-- Lightweight CLI tool for quick port scanning
-- Threat feed ingestion into Splunk using API integrations
+## ✅ Active Plans
+- **EDR Simulation Logbook** → Generate sample endpoint logs, annotate alerts, and document triage.  
+- **Phishing Awareness Series** → Security awareness posters, fake campaigns, and SOC response training content.  
 
 ---
 
-*This list will grow and evolve as I learn and experiment.*
+## 🔮 Future Ideas
+- **Splunk Dashboard Pack** → Pre-built SOC dashboards (auth logs, web traffic, DNS anomalies).  
+- **Python Incident Helper** → Scripts for quick IOC extraction, log parsing, and timeline building.  
+- **DFIR Toolkit Wrapper** → Automate Volatility/Plaso commands for memory/disk triage.  
+
+---
+
+## 📝 Notes
+Project ideas evolve into live folders once scoped.  
+This file tracks the pipeline of **planned → active → completed** projects.
